@@ -1,0 +1,8 @@
+Name :rupa helper
+Phone Number :0935456
+Age :34
+Train Name :Subarna Express
+Destination :RAJSHAHI
+Starting Point :DHAKA
+Seat Class :SECOND
+Fare :wer

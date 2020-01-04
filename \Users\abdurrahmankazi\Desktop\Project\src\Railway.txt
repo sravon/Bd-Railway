@@ -1,0 +1,8 @@
+Name :rsa reg
+Phone Number :01834920142
+Age :34
+Train Name :Parabat Express
+Destination :RAJSHAHI
+Starting Point :KHULNA
+Seat Class :SECOND
+Fare :e
